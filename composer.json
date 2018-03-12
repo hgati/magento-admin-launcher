@@ -1,0 +1,11 @@
+{
+  "name": "hgati/jreinke-magento-admin-launcher",
+  "version": "1.0.0",
+  "type": "magento-module",
+  "description": "An intuitive and powerful launcher for Magento admin panel",
+  "license": "OSL-3.0",
+
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
